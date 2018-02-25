@@ -1,0 +1,13 @@
+{
+"companyName": "Beards&Games",
+"productName": "KnjazovaPustolovina",
+"dataUrl": "KnjazovaAvantura.data.unityweb",
+"asmCodeUrl": "KnjazovaAvantura.asm.code.unityweb",
+"asmMemoryUrl": "KnjazovaAvantura.asm.memory.unityweb",
+"asmFrameworkUrl": "KnjazovaAvantura.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
